@@ -30,3 +30,18 @@ ou o        # 00 FF 00 = GREEN;
 e tambem o  # 00 00 FF = BLUE;
 
 Assim fazendo combinações destas cores teremos uma infinidade de cores para usarmos no nosso site...
+ 
+
+ Estas mesmas cores tambem podem ser descritas em RGB; 
+ Aonde 0 é Ausencia de cor e 255 é o maximo;
+ Ficando desta forma:
+ RGB (255,255,255) = Branco --> Repare que é a mesma combinação do #FFFFFF;
+ ou RGB (0,0,0) = Preto --> Aonde teremos a mesma combinação do #000000;
+
+ ate mesmo com as cores primarias;
+
+ RGB(255,0,0) =  RED;
+ RGB(0,255,0) = GREEN;
+ RGB(0,0,255) = BLUE;
+
+ 
