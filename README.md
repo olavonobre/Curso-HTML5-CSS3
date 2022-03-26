@@ -1,7 +1,7 @@
 # Curso-HTML5-CSS3
-<strong>24/03/2022</strong> - Iniciando o curso de Front end com HTML5 & CSS3.
-<strong>24/03/2022</strong> - Criando um Site Básico de Barbearia "Barbearia Alura";
-<strong>24/03/2022</strong> - Texto Base:
+<p><strong>24/03/2022</strong> - Iniciando o curso de Front end com HTML5 & CSS3.</p>
+<p><strong>24/03/2022</strong> - Criando um Site Básico de Barbearia "Barbearia Alura";</p>
+<p><strong>24/03/2022</strong> - Texto Base</p>:
 
 ## Sobre a Barbearia Alura 
 
