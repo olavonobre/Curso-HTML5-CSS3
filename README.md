@@ -15,4 +15,5 @@
 <p><strong>24/03/2022</strong> - Aprendi a Definir um texto usando as tags <strong>"H1"</strong> <em>(Título)</em> e <strong>"p"</strong> <em>(parágrafo)</em>;</p>
 
 <strong>24/03/2022</strong> - Aprendi a melhorar o texto com as Tags <strong>"strong"</strong> <em>(Negrito)</em> e <strong>"em"</strong> <em>(Itálico)</em>;
+<p><strong>24/03/2022</strong> - Criei a estutura básica do html5 com o <strong>"!DOCTYPE"</strong> <em>(Diz para o navegador que a página a ser exibida será em html)</em> e o <strong>"html"</strong> <em>(Inicia o codigo)</em></p>
 
