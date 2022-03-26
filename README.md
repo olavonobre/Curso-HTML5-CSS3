@@ -17,3 +17,4 @@
 <p><strong>24/03/2022</strong> - Aprendi a melhorar o texto com as Tags <strong>"strong"</strong> <em>(Negrito)</em> e <strong>"em"</strong> <em>(Itálico)</em>;</p>
 <p><strong>24/03/2022</strong> - Criei a estutura básica do html5 com as tags <strong>"!DOCTYPE"</strong> <em>(Diz para o navegador que a página a ser exibida será em html)</em> e o <strong>"html"</strong> <em>(Inicia o codigo)</em>;</p>
 
+<p><strong>24/03/2022</strong> - Passei dados para o navegador para facilitar a navegação do usuário com as tags <strong>"meta"</strong> <em>(Diz para o navegador a biblioteca de caracteres...aqui usei a UTF-8)</em> e o <strong>"title"</strong> <em>(Dá um título para a página)</em> e acescentei na tag <strong>"html"</strong> o atributo <strong>"Lang"</strong> <em>(que diz ao navegado em qual língua foi escrita a página)</em>;</p>
