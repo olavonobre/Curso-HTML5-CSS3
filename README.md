@@ -24,10 +24,17 @@
 <p><strong>24/03/2022</strong> - Iniciei o uso de CSS na página fazendo algumas alterações básicas de tamanho de fonte e Alinhamento usando os atributos do CSS <strong>"font-size"</strong> <em>(Muda o tamanho da fonte em pixels)</em> e o <strong>"text-align"</strong> <em>(Alinha o texto de acordo com a posição desejada... Neste caso ao centro <strong>"center"</strong>)</em>;</p>
 
 
-<p><strong>24/03/2022</strong> - Adicionei estilo à página com a tag <strong>"hstyle"</strong> <em>(todos os atributos colocados dentro desta tag farão alterações nesta página inteira)</em> e criei um novo arquivo chamado <strong>"style.css"</strong> <em>(onde toda alteração feita aqui vai alterar todas as páginas do site)</em>;</p>
+<p><strong>24/03/2022</strong> - Adicionei estilo à página com a tag <strong>"style"</strong> <em>(todos os atributos colocados dentro desta tag farão alterações nesta página inteira)</em> e criei um novo arquivo chamado <strong>"style.css"</strong> <em>(onde toda alteração feita aqui vai alterar todas as páginas do site)</em>;</p>
 
 <p><strong>24/03/2022</strong> - Adicionei cores de fundo e de fonte usando o CSS com as propriedades <strong>"background"</strong> <em>(usado para mudar a cor de fundo...)</em> e o <strong>"color"</strong> <em>(usado para mudar a cor do conteúdo)</em>;</p>
 
 ## Cores
 
 Adicionei um documento de texto explicando como é "montado" o codigo de cores em hexadecimal e RGB https://github.com/olavonobre/Curso-HTML5-CSS3/blob/main/Modulo%203/04%20-%20Cores%20em%20Hexadecimal/cores.txt
+
+## Imagens
+
+Adicionei uma imagem de um banner usando a tag <strong>"img"</strong> <em>(esta tag tem uma referencia do caminho que é o atributo <strong>"source"</strong> que é escrita <strong>"SRC"</strong>);</em>
+
+Aprendi a direcionar um atributo CSS usando As tags Pai na mesma linha...
+EXEMPLO: a tag strong estava duplicada e queria por cor somente m uma delas entam como ela estava dentro de uma <strong>"EM"</strong>...la no CSS coloquei "EM STRONG" e o atributo que queria mudar;
