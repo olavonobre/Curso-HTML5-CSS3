@@ -20,3 +20,6 @@
 <p><strong>24/03/2022</strong> - Passei dados para o navegador para facilitar a navegação do usuário com as tags <strong>"meta"</strong> <em>(Diz para o navegador a biblioteca de caracteres...aqui usei a UTF-8)</em> e o <strong>"title"</strong> <em>(Dá um título para a página)</em> e acescentei na tag <strong>"html"</strong> o atributo <strong>"lang"</strong> <em>(que diz ao navegador em qual língua foi escrita a página)</em>;</p>
 
 <p><strong>24/03/2022</strong> - Separei o conteúdo da página com as tags <strong>"head"</strong> <em>(Passa informações para o navegador)</em> e o <strong>"body"</strong> <em>(Exibe o conteúdo da página)</em>;</p>
+
+<p><strong>24/03/2022</strong> - Iniciei o uso de CSS na página fazendo algumas alterações básicas de tamanho de fonte e Alinhamento usando os atributos do CSS <strong>"font-size"</strong> <em>Muda o tamanho da fonte em pixels)</em> e o <strong>"text-aling"</strong> <em>(Alinha o texto de acordo com a posição desejada)</em>;</p>
+
