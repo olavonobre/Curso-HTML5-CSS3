@@ -25,3 +25,5 @@
 
 
 <p><strong>24/03/2022</strong> - Adicionei estilo à página com a tag <strong>"hstyle"</strong> <em>(todos os atributos colocados dentro desta tag farão alterações nesta página inteira)</em> e criei um novo arquivo chamado <strong>"style.css"</strong> <em>(onde toda alteração feita aqui vai alterar todas as páginas do site)</em>;</p>
+
+<p><strong>24/03/2022</strong> - Adicionei cores de fundo e de fonte usando o CSS com as propriedades <strong>"background"</strong> <em>(usado para mudar a cor de fundo...)</em> e o <strong>"color"</strong> <em>(usado para mudar a cor do conteúdo)</em>;</p>
