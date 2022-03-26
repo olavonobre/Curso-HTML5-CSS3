@@ -23,3 +23,5 @@
 
 <p><strong>24/03/2022</strong> - Iniciei o uso de CSS na página fazendo algumas alterações básicas de tamanho de fonte e Alinhamento usando os atributos do CSS <strong>"font-size"</strong> <em>(Muda o tamanho da fonte em pixels)</em> e o <strong>"text-align"</strong> <em>(Alinha o texto de acordo com a posição desejada... Neste caso ao centro <strong>"center"</strong>)</em>;</p>
 
+
+<p><strong>24/03/2022</strong> - Adicionei estilo à página com a tag <strong>"hstyle"</strong> <em>(todos os atributos colocados dentro desta tag farão alterações nesta página inteira)</em> e criei um novo arquivo chamado <strong>"style.css"</strong> <em>(onde toda alteração feita aqui vai alterar todas as páginas do site)</em>;</p>
