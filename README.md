@@ -30,4 +30,4 @@
 
 ## Cores
 
-Adicionei um documento de texto explicando como é "montado" o codigo de cores em hexadecimal e RGB 
+Adicionei um documento de texto explicando como é "montado" o codigo de cores em hexadecimal e RGB https://github.com/olavonobre/Curso-HTML5-CSS3/blob/main/Modulo%203/04%20-%20Cores%20em%20Hexadecimal/cores.txt
