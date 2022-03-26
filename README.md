@@ -21,5 +21,5 @@
 
 <p><strong>24/03/2022</strong> - Separei o conteúdo da página com as tags <strong>"head"</strong> <em>(Passa informações para o navegador)</em> e o <strong>"body"</strong> <em>(Exibe o conteúdo da página)</em>;</p>
 
-<p><strong>24/03/2022</strong> - Iniciei o uso de CSS na página fazendo algumas alterações básicas de tamanho de fonte e Alinhamento usando os atributos do CSS <strong>"font-size"</strong> <em>Muda o tamanho da fonte em pixels)</em> e o <strong>"text-aling"</strong> <em>(Alinha o texto de acordo com a posição desejada)</em>;</p>
+<p><strong>24/03/2022</strong> - Iniciei o uso de CSS na página fazendo algumas alterações básicas de tamanho de fonte e Alinhamento usando os atributos do CSS <strong>"font-size"</strong> <em>(Muda o tamanho da fonte em pixels)</em> e o <strong>"text-align"</strong> <em>(Alinha o texto de acordo com a posição desejada... Neste caso ao centro <strong>"center"</strong>)</em>;</p>
 
