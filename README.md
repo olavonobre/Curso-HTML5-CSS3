@@ -34,7 +34,7 @@ Adicionei um documento de texto explicando como é "montado" o codigo de cores e
 
 ## Imagens
 
-Adicionei uma imagem de um banner usando a tag <strong>"img"</strong> <em>(esta tag tem uma referencia do caminho que é o atributo <strong>"source"</strong> que é escrita <strong>"SRC"</strong>);</em>
+Adicionei uma imagem de um banner usando a tag <strong>"img"</strong> <em>(esta tag tem uma referência do caminho que é o atributo <strong>"source"</strong> que é escrita <strong>"SRC"</strong>);</em>
 
-Aprendi a direcionar um atributo CSS usando As tags Pai na mesma linha...
-EXEMPLO: a tag strong estava duplicada e queria por cor somente m uma delas entam como ela estava dentro de uma <strong>"EM"</strong>...la no CSS coloquei "EM STRONG" e o atributo que queria mudar;
+Aprendi a direcionar um atributo CSS usando As tags <em>"Pais"</em> na mesma linha...
+EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas então como ela estava dentro de uma <strong>"EM"</strong>...la no CSS coloquei "EM STRONG" e o atributo que queria mudar;
