@@ -1,0 +1,32 @@
+Tipos de alfabeto:
+abcdef.... (nosso alfabeto)
+
+Binário ( 0 e 1);
+
+Numérico (0123456789);
+
+Hexadecimal (0123456789ABCDEF);
+
+RGB (RED, GREEN, BLUE);
+
+As cores no HTML5 e CSS3 normalmente sao escritas em Hexadecimal
+
+aonde o # indica o inicio do codigo de cor Hexadecimal e seguido por 6 algarismos
+ EXEMPLO # _ _ _ _ _ _ ;
+
+ Aonde sao divididos em pares...onde o primeiro par Representa o RED (vermelho), o segundo o GREEN (Verde) e o terceiro o BLUE (Azul);
+
+ Usando o Hexadecimal para escrever isto teremos:
+
+ o 0 = ausencia de cor e o F = Máximo daquela cor....e nisso cada cor poderá ter 255 combinações
+
+EXEMPLO:
+# 00 00 00 = Preto onde temos 00 de RED, 00 de GREEN e 00 de BLUE;
+
+ou # FFF FF FF = Branco aonde teremos o maximo de cada cor que no RGB misturadas da o Branco
+
+temos tbm o # FF 00 00 = RED;
+ou o        # 00 FF 00 = GREEN;
+e tambem o  # 00 00 FF = BLUE;
+
+Assim fazendo combinações destas cores teremos uma infinidade de cores para usarmos no nosso site...
