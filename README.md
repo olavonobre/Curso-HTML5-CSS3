@@ -70,4 +70,8 @@ EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas ent
 
 ## Navegação entre páginas
 
+### Estruturando a navegação
+
+<strong>27/03/2022</strong> - aprendir a usar a tag <strong>a</strong> para linkar paginas no meu site.
+
 
