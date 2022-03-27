@@ -74,4 +74,8 @@ EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas ent
 
 <strong>27/03/2022</strong> - aprendir a usar a tag <strong>a</strong> para linkar paginas no meu site.
 
+### Arrumando a lista
+
+<strong>27/03/2022</strong> - Aprendi a por a fonte em tamanho grande com o atributo do CSS <strong>text-transform: uppercase</strong> e a por o texto do Link sem decoração do navegador com o atributo <strong>text-decoration : none; </strong>.
+
 
