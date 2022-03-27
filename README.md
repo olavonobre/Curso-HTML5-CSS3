@@ -32,18 +32,19 @@
 <p><strong>24/03/2022</strong> - Adicionei cores de fundo e de fonte usando o CSS com as propriedades <strong>"background"</strong> <em>(usado para mudar a cor de fundo...)</em> e o <strong>"color"</strong> <em>(usado para mudar a cor do conteúdo)</em>;</p>
 
 
-<p><strong>24/03/2022</strong> - Adicionei um documento de texto explicando como é "montado" o codigo de cores em hexadecimal e RGB https://github.com/olavonobre/Curso-HTML5-CSS3/blob/main/Modulo%203/04%20-%20Cores%20em%20Hexadecimal/cores.txt
+<p><strong>24/03/2022</strong> - Adicionei um documento de texto explicando como é "montado" o codigo de cores em hexadecimal e RGB https://github.com/olavonobre/Curso-HTML5-CSS3/blob/main/Modulo%203/04%20-%20Cores%20em%20Hexadecimal/cores.txt</p>
 
 ## Imagens
 
-<p><strong>24/03/2022</strong> - Adicionei uma imagem de um banner usando a tag <strong>"img"</strong> <em>(esta tag tem uma referência do caminho que é o atributo <strong>"source"</strong> que é escrita <strong>"SRC"</strong>);</em>
+<p><strong>24/03/2022</strong> - Adicionei uma imagem de um banner usando a tag <strong>"img"</strong> <em>(esta tag tem uma referência do caminho que é o atributo <strong>"source"</strong> que é escrita <strong>"SRC"</strong>);</em></p>
 
 <p><strong>24/03/2022</strong> - Aprendi a direcionar um atributo CSS usando As tags <em>"Pais"</em> na mesma linha...
-EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas então como ela estava dentro de uma <strong>"EM"</strong>...la no CSS coloquei "EM STRONG" e o atributo que queria mudar;
+EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas então como ela estava dentro de uma <strong>"EM"</strong>...la no CSS coloquei "EM STRONG" e o atributo que queria mudar;</p>
 
-<p><strong>24/03/2022</strong> - Aprendi a mudar a largura da imagem com o atributo <strong>"width"</strong><em>(Neste caso usamos a opção de deixar em 100 %, ou seja sempre vai estar no tamanho maximo que a pagina estiver...)</em>
+<p><strong>24/03/2022</strong> - Aprendi a mudar a largura da imagem com o atributo <strong>"width"</strong><em>(Neste caso usamos a opção de deixar em 100 %, ou seja sempre vai estar no tamanho maximo que a pagina estiver...)</em></p>
 
 ## Listas
 
-<p><strong>24/03/2022</strong> - Aprendi a trabalhar com Listas usando as tags <strong>"ul"</strong>e<strong>"ol"</strong> <em>(a diferença entres estas é que <strong>ul</strong> nao põe qualquer tipo de ordem na lista enquanto <strong>ol</strong> poe a lista ordenada....)</em>
+<p><strong>24/03/2022</strong> - Aprendi a trabalhar com Listas usando as tags <strong>"ul"</strong>e<strong>"ol"</strong> <em>(a diferença entres estas é que <strong>ul</strong> nao põe qualquer tipo de ordem na lista enquanto <strong>ol</strong> poe a lista ordenada....)</em></p>
 
+<p><strong>24/03/2022</strong> - Agora inseri diviões na página usando a tag <strong>"div"</strong> <em>(Onde consigo por atributos de id ou de classe para estilizar somente uma parte da página)</em></p>
