@@ -58,12 +58,16 @@ EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas ent
 
 ## Módulo 02
 
+## Nova página
+
 ### Criando uma nova página.
 
 <strong>27/03/2022</strong> - Nesta aula aprendi como fazer uma nova página usando as tags ja conhecidas anteriormente.
 
 ### Novo Cabeçalho
 
+<strong>27/03/2022</strong> - Aprendi a por a tag <strong>img</strong> dentro de uma <strong>H1</strong> ..fazendo assim o navegador dar mais importância a imagem...e criei uma lista desm ordem..pra o cabeçalho...
 
+## Navegação entre páginas
 
 
