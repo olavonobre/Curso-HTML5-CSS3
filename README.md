@@ -50,3 +50,7 @@ EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas ent
 <p><strong>24/03/2022</strong> - Agora inseri diviões na página usando a tag <strong>"div"</strong> <em>(Onde consigo por atributos de id ou de classe para estilizar somente uma parte da página)</em></p>
 
 <strong>24/03/2022</strong> - Aprendi como usar os atributos <strong>inline</strong> e <strong>Block</strong> no CSS 
+
+## Cabeçalho (Header)
+
+<p><strong>24/03/2022</strong> - Defini o cabeçalho para melhorar a semântica da pagina usando a tag <strong>Header</strong>;</p>
