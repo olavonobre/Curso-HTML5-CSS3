@@ -88,5 +88,15 @@ EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas ent
 
 <strong>27/03/2022</strong> - aprendi a como dividir uma lista com imagens e textos de maneira uniforme usando o CSS
 
+## Pseudo classes
+
+<strong>27/03/2022</strong> - Aprendi a usar o atributo <strong>hover</strong> e <strong>active</strong> para interação com o usuário usando o CSS
+
+## Finalizando a página de produtos
+
+<strong>27/03/2022</strong> - usei a função <strong>background: url()</strong> para inserir uma imagem de fundo com CSS e utilizei a tabela <strong>unicode</strong> com o codigo <strong>&copy</strong> para inserir o simbolo de COPYRIGHT no rodapé da página.
+
+
+
 
 
