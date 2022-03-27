@@ -26,9 +26,11 @@
 
 <p><strong>24/03/2022</strong> - Adicionei estilo à página com a tag <strong>"style"</strong> <em>(todos os atributos colocados dentro desta tag farão alterações nesta página inteira)</em> e criei um novo arquivo chamado <strong>"style.css"</strong> <em>(onde toda alteração feita aqui vai alterar todas as páginas do site)</em>;</p>
 
-<p><strong>24/03/2022</strong> - Adicionei cores de fundo e de fonte usando o CSS com as propriedades <strong>"background"</strong> <em>(usado para mudar a cor de fundo...)</em> e o <strong>"color"</strong> <em>(usado para mudar a cor do conteúdo)</em>;</p>
 
 ## Cores
+
+<p><strong>24/03/2022</strong> - Adicionei cores de fundo e de fonte usando o CSS com as propriedades <strong>"background"</strong> <em>(usado para mudar a cor de fundo...)</em> e o <strong>"color"</strong> <em>(usado para mudar a cor do conteúdo)</em>;</p>
+
 
 <p><strong>24/03/2022</strong> - Adicionei um documento de texto explicando como é "montado" o codigo de cores em hexadecimal e RGB https://github.com/olavonobre/Curso-HTML5-CSS3/blob/main/Modulo%203/04%20-%20Cores%20em%20Hexadecimal/cores.txt
 
@@ -41,4 +43,7 @@ EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas ent
 
 <p><strong>24/03/2022</strong> - Aprendi a mudar a largura da imagem com o atributo <strong>"width"</strong><em>(Neste caso usamos a opção de deixar em 100 %, ou seja sempre vai estar no tamanho maximo que a pagina estiver...)</em>
 
+## Listas
+
 <p><strong>24/03/2022</strong> - Aprendi a trabalhar com Listas usando as tags <strong>"ul"</strong>e<strong>"ol"</strong> <em>(a diferença entres estas é que <strong>ul</strong> nao põe qualquer tipo de ordem na lista enquanto <strong>ol</strong> poe a lista ordenada....)</em>
+
