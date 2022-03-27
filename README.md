@@ -38,3 +38,5 @@ Adicionei uma imagem de um banner usando a tag <strong>"img"</strong> <em>(esta 
 
 Aprendi a direcionar um atributo CSS usando As tags <em>"Pais"</em> na mesma linha...
 EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas então como ela estava dentro de uma <strong>"EM"</strong>...la no CSS coloquei "EM STRONG" e o atributo que queria mudar;
+
+Aprendi a mudar a largura da imagem com o atributo <strong>"width"</strong><em>(Neste caso usamos a opção de deixar em 100 %, ou seja sempre vai estar no tamanho maximo que a pagina estiver...)</em>
