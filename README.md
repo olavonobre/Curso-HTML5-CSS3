@@ -84,3 +84,9 @@ EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas ent
 
 <strong>27/03/2022</strong> - usando uma folha de estilo como reset do navegador..para facilitar a usrmos nosso estilo na pagina
 
+## A TAG Section
+
+<strong>27/03/2022</strong> - aprendi a como dividir uma lista com imagens e textos de maneira uniforme usando o CSS
+
+
+
