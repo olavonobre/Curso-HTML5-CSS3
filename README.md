@@ -1,4 +1,5 @@
 # Curso-HTML5-CSS3
+## Módulo 01
 <p><strong>24/03/2022</strong> - Iniciando o curso de Front end com HTML5 & CSS3.</p>
 <p><strong>24/03/2022</strong> - Criando um Site Básico de Barbearia "Barbearia Alura";</p>
 <p><strong>24/03/2022</strong> - Texto Base:</p>
@@ -54,3 +55,15 @@ EXEMPLO: a tag strong estava duplicada e queria por cor somente em uma delas ent
 ## Cabeçalho (Header)
 
 <p><strong>24/03/2022</strong> - Defini o cabeçalho para melhorar a semântica da pagina usando a tag <strong>Header</strong>;</p>
+
+## Módulo 02
+
+### Criando uma nova página.
+
+<strong>27/03/2022</strong> - Nesta aula aprendi como fazer uma nova página usando as tags ja conhecidas anteriormente.
+
+### Novo Cabeçalho
+
+
+
+
